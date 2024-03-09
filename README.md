@@ -213,7 +213,3 @@ If you are curious, here a few more interesting sorting algorithms to discover
 - heap sort
 - shell sort
 - counting sort
-
-## Solution
-
-[dsa-sorting-solution.zip](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2550f931-27db-4c82-9711-0b1a04d38781/dsa-sorting-solution.zip)
